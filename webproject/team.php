@@ -45,7 +45,6 @@
                         <img src="assets/team/1.jpg" alt="" class="img-thumbnail">
                         <p>CEO</p>
                         <p>Syaron Mahato</p>
-                        <p>Rijan chapagain</p>
                     </div>
                     <div class="col-md-4">
                     <img src="assets/team/2.jpg" alt="" class="img-thumbnail">
